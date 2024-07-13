@@ -1,0 +1,165 @@
+/* Ensure the body and html take full height */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif; /* Adding a default font */
+}
+
+/* Make the App component a flex container */
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Push footer to the bottom */
+.realfooter {
+  margin-top: auto; /* Pushes footer to the bottom */
+  background-color: #f1f1f1; /* Light gray background */
+  padding: 10px;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+/* Styling for header */
+header {
+  background-color: antiquewhite;
+  border-bottom: 2px solid #ddd; /* Light gray border at the bottom */
+  padding: 10px;
+  text-align: center;
+}
+
+/* Styling for labels */
+label {
+  font-weight: bold;
+}
+
+/* Styling for input fields */
+input[type="text"] {
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid #ccc; /* Light gray border */
+  border-radius: 4px; /* Rounded corners */
+  width: 200px; /* Fixed width */
+}
+
+/* Styling for ordered list */
+ol {
+  padding-left: 20px;
+}
+
+/* Styling for list items */
+li {
+  margin: 5px 0; /* Space between list items */
+  padding: 5px;
+  border-bottom: 1px solid #ddd; /* Light gray border at the bottom */
+}
+li:hover{
+  text-decoration-line: line-through; color: rgb(17, 239, 17);
+}
+/* Styling for buttons */
+button {
+  background-color: rgb(88, 151, 233);
+  color: white;
+  border: none;
+  border-radius: 4px; /* Rounded corners */
+  padding: 8px 16px; /* Padding for button */
+  cursor: pointer; /* Pointer cursor on hover */
+  margin-left: 10px; /* Space between text and button */
+}
+
+/* Styling for button on hover */
+button:hover {
+  background-color: rgb(70, 130, 180); /* Slightly darker blue on hover */
+}
+
+/* Styling for divs */
+.div1 {
+  background-color: blueviolet;
+  padding: 10px;
+  border-radius: 4px; /* Rounded corners */
+  margin: 10px 0; /* Margin around div */
+  display: inline-flex; /* Use inline-flex to only take up as much space as its contents */
+  align-items: center; /* Center items vertically */
+}
+/* General styling for links */
+a {
+  color: #007bff; /* Bootstrap blue for links */
+  text-decoration: none; /* Remove underline */
+}
+
+/* Styling for links on hover */
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ngl{
+
+}

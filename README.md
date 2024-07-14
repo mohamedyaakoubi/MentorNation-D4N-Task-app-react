@@ -16,8 +16,14 @@ Ensure you have the following installed on your local machine:
 
 ```sh
 git clone https://github.com/mohamedyaakoubi/MentorNation-D4N-My-Work.git
+```
+```sh
 cd MentorNation-D4N-My-Work
+```
+```sh
 npm install
+```
+```sh
 npm start
 ```
 Contact:

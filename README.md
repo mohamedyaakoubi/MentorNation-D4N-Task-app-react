@@ -1,6 +1,6 @@
 # Task App
 
-You can add a task to do and remove it when done.
+You can add a task to do and remove it when done it's a very beginner thing.
 
 ## Installation
 

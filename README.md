@@ -15,8 +15,7 @@ Ensure you have the following installed on your local machine:
 ### Clone the repository
 
 ```sh
-git clone https://github.com/mohamedyaakoubi/MentorNation-D4N-Task-app-react
-.git
+git clone https://github.com/mohamedyaakoubi/MentorNation-D4N-Task-app-react.git
 ```
 ```sh
 cd MentorNation-D4N-My-Work
